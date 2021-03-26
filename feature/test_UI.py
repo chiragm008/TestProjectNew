@@ -86,11 +86,3 @@ def test_amazon(test_setup):
         print("Both amazon and flipkart has same price")
     else:
         print("Flipkart gives cheaper product")
-
-
-
-
-
-
-
-

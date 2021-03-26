@@ -11,8 +11,3 @@ def test_books():
     data = response.json()
     print(data)
 
-
-
-
-
-
