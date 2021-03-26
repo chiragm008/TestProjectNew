@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb425d89-963e-4578-a8c2-3641f0dd7dc5" name="Default Changelist" comment="Briefly provide the written test cases">
+      <change beforePath="$PROJECT_DIR$/.idea/TopDocProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TopDocProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StepDef/endpoint/EndPointFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/StepDef/endpoint/EndPointFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/feature/assets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/test_API.py" beforeDir="false" afterPath="$PROJECT_DIR$/feature/test_API.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +57,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mindfire\PycharmProjects\HybridALL\feature" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_ui">
+  <component name="RunManager" selected="Python tests.pytest in test_API.py">
     <configuration name="screen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TopDocProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +125,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_ui" />
         <item itemvalue="Python tests.pytest in test_API.py" />
+        <item itemvalue="Python tests.pytest for test_ui" />
         <item itemvalue="Python.screen" />
       </list>
     </recent_temporary>
@@ -175,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616760975440</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Briefly provide the written test cases">
+      <created>1616761522014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616761522014</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

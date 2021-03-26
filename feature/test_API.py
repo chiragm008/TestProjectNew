@@ -20,13 +20,13 @@ def test_books():
     da7 = data['books'][0]['pages']
     da8 = data['books'][0]['description']
     da9 = data['books'][0]['website']
-    print(da1)
-    print(da2)
-    print(da3)
-    print(da4)
-    print(da5)
-    print(da6)
-    print(da7)
-    print(da8)
-    print(da9)
 
+    assert da1 == EndPoint.isbn and type(da1) == str
+    assert da2 == EndPoint.title and type(da2) == str
+    assert da3 == EndPoint.subTitle and type(da3) == str
+    assert da4 == EndPoint.author and type(da4) == str
+    assert da5 == EndPoint.publish_date and type(da5) == str
+    assert da6 == EndPoint.publisher and type(da6) == str
+    assert da7 == EndPoint.pages and type(da7) == int
+    assert da8 == EndPoint.description and type(da8) == str
+    assert da9 == EndPoint.website and type(da9) == str
