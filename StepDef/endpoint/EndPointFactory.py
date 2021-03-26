@@ -15,7 +15,6 @@ class Flipkart:
     CartTotalPrice = "//div[1]/span[1]/div[1]/div[1]/span[1]"
 
 
-
 class Amazon:
     SearchTextBox = "//input[@id='twotabsearchtextbox']"
     SearchButton = "//input[@id='nav-search-submit-button']"
